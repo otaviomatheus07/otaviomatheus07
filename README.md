@@ -14,7 +14,7 @@ mas só pode ser vivida, olhando-se para frente." <br/>
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=whit
 )](https://discord.com/channels/@me/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=otaviomatheus07&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=otaviomatheus07&show_icons=true&theme=marko)
 
 ## Tecnologias que eu pratico no meu dia <>
 <div style="display: Inline_block"><br/>
