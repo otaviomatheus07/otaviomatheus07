@@ -30,3 +30,4 @@ mas só pode ser vivida, olhando-se para frente." <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=otaviomatheus07)](https://github.com/anuraghazra/github-readme-stats)
 
 Vivendo e aprendendo ! uma paixão por tecnologia 🖥️, jogos 🎮 e futebol ⚽
+.
