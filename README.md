@@ -27,6 +27,6 @@ mas só pode ser vivida, olhando-se para frente." <br/>
 <br/><img align="center" alt="GIT" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" /><br/>
 </div><br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 Vivendo e aprendendo ! uma paixão por tecnologia 🖥️, jogos 🎮 e futebol ⚽
