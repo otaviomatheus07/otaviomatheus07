@@ -14,7 +14,7 @@ mas só pode ser vivida, olhando-se para frente." <br/>
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=whit
 )](https://discord.com/channels/@me/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=otaviomatheus07&show_icons=true&theme=merko)
+[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=otaviomatheus07&show_icons=true&theme=merko)
 
 ## Tecnologias que eu pratico no meu dia <>
 <div style="display: Inline_block"><br/>
@@ -27,6 +27,6 @@ mas só pode ser vivida, olhando-se para frente." <br/>
 <br/><img align="center" alt="GIT" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" /><br/>
 </div><br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=otaviomatheus07)](https://github.com/otaviomatheus07/github-readme-stats)
+[[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=otaviomatheus07)](https://github.com/otaviomatheus07/github-readme-stats)
 
 Vivendo e aprendendo ! uma paixão por tecnologia 🖥️, jogos 🎮 e futebol ⚽
