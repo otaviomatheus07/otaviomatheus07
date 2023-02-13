@@ -1,6 +1,6 @@
-"A vida só pode ser compreendida, olhando-se para trás;<br/>
-mas só pode ser vivida, olhando-se para frente." <br/>
-           <div style="text-align: right;"> ~Søren Kierkegaard </div> 
+" Enquanto não houver luz na escruridão, 
+tudo é questionável "
+           ~Otavio Matheus~
 
 
 ### Olá, Eu sou o Otavio Matheus ✌️
