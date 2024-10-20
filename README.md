@@ -8,8 +8,6 @@ tudo é questionável "</br>
 )](https://www.instagram.com/ootaviomatheus/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/otavio-matheus-adm/)
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white
-)](https://www.youtube.com/channel/UCucUZODSU4U2EPB2ax7TY4A)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=whit
 )](https://discord.com/channels/@me/)
 
